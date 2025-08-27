@@ -53,7 +53,7 @@
   - Kombinasi usia tua + aktivitas rendah memperkuat risiko churn.
   - Nasabah dengan tenure singkat (0–3 tahun) memiliki churn rate lebih tinggi dibanding nasabah lama.
 
--Hasil Model
+- Hasil Model
   - Model KNN setelah tuning memberikan keseimbangan terbaik antara recall dan precision.
   - Recall tinggi berarti model cukup baik dalam menangkap nasabah yang berpotensi churn (mengurangi loss pelanggan).
 ---
