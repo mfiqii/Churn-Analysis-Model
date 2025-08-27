@@ -1,7 +1,7 @@
 # 📉 Churn Analysis - Classification & Model Tuning
 
 ## 🎯 Objective
-Membangun model klasifikasi untuk memprediksi customer churn dan memberi rekomendasi tindakan retensi. Fokus pada penanganan class imbalance, pemilihan model, serta threshold tuning agar recall pada kelas churn lebih baik tanpa mengorbankan precision secara berlebihan.
+- Membangun model klasifikasi untuk memprediksi customer churn dan memberi rekomendasi tindakan retensi. Fokus pada penanganan class imbalance, pemilihan model, serta threshold tuning agar recall pada kelas churn lebih baik tanpa mengorbankan precision secara berlebihan.
 ---
 
 ## 🗃️ Dataset
